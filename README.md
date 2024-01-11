@@ -4,9 +4,7 @@
 
 I am a Junior developer and a pensions adminstrator. I build projects here that help develop my skills in software development. Currently at [Founders and Coders](https://www.foundersandcoders.com/learn/) as a trainee software developer.
 
-<div id="header" align="center">
-  <img src=" https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=LozaDaniel-pr&style=flat-square&color=blue" alt=""></p>
 
 
 <!--
