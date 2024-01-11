@@ -4,7 +4,7 @@
 
 I am a Junior developer and a pensions adminstrator. I build projects here that help develop my skills in software development. Currently at [Founders and Coders](https://www.foundersandcoders.com/learn/) as a trainee software developer.
 
-[Founders and Coders](https://www.foundersandcoders.com/learn/)
+
 
 <!--
 <div id="header" align="center">
